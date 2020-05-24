@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+}
+         /*Header css*/
+header{
+    background: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+header .mt{
+    margin-top: 20px;
+}
+.navbar-toggler span {
+    display: block;
+    width: 20px;
+    height: 2.5px;
+    margin: 4px 0;
+    background-color: #fff;
+}
+
+header .nav-item {
+    color: #fff;
+}
+header .nav-item a{
+        
+}
+header .nav-item a:hover{
+    
+}
+header .btn-info {
+    color: #4856f3;
+    background-color: #ffffff;
+    padding: 7px 26px;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: 15px;
+
+}
+header .btn-info a:hover{
+    color: #fff;
+    text-decoration: none;
+
+}
+header .nav-item:hover{
+    border-bottom: 2px solid #fff;
+    transition: 0.3s;
+}
+header .nav-item{
+    border-bottom: 2px solid transparent;
+    margin-right: 10px;
+}
+.hero-area{
+    margin-top: 130px;
+    margin-bottom: 220px;
+}
+.hero-area h1 {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 50px;
+}
+
+
+.hero-area .btn{
+    color: #000 !important;
+    background-color: #ffffff;
+    padding: 7px 30px;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.hero-area .btn:hover{
+    background-color: #138496;
+    transition: 0.3s;
+    text-decoration: none;
+    color: #4856f3;
+}
+.hero-area .btn a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+        /*Header css End*/
+
+
+        /*contact us section*/
+
+.inner-left p{
+    margin-right: 35px;
+}
+
+.left-top h5 {
+    font-size: 15px;
+    color: #9f9f9f;
+}
+
+.left-top {
+    margin: 120px 60px;
+}
+.inner-left {
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.right .img {
+    width: 102.4%;
+}
+.inner-left p {
+    color: #5c5f62;
+}
+
+.inner-left h4 {
+    font-size: 18px;
+    color: #000;
+    opacity: 0.8;
+}
+
+
+        /*contact us section End*/
+
+
+        /*what we do Section*/
+.what-we-do{
+    background-color: #faf8f5;
+}
+        
+.what-we-do .what-inner{
+    margin: 150px 0px;
+    margin-right: 110px;
+}
+.what-we-do  .what-inner ul{
+
+list-style: none;
+}
+.what-we-do .what-inner ul li{
+
+padding: 23px 30px;
+
+margin: 5px -8px;
+
+background: #fff;
+}
+.what-we-do .what-inner ul li a{
+
+color: #a5a5a5;
+
+text-decoration: none;
+
+background-color: transparent;
+
+margin-left: -21px;
+}
+.what-we-do .what-inner ul li a span{
+    margin-right: 10px;
+
+}
+.what-we-do .what-inner ul li a:hover span{
+    color: orange;
+    text-align:center;
+
+    
+
+
+}
+.what-we-do .what-inner ul li a:hover{
+        font-weight: 700;
+        transition: 0.3s;
+        color: #007bff;
+}
+.what-we-do .what-inner2{
+    margin: 215px 0px;
+}
+.what-we-do .what-inner2 h5 {
+    font-size: 15px;
+    color: #9f9f9f;
+    text-transform: uppercase;
+}
+
+.what-we-do .what-inner2 h1{
+    font-size: 42px;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+.what-we-do .what-inner2 p{
+    font-size: 14px;
+    line-height:1.8;
+    font-weight: 600;
+    color: #676a6c;
+}
+
+       /*what we do Section End*/
+
+
+.service p{
+        color: #000;
+}
+.service-item {
+    margin: 100px 0px;
+}
+.inner-service{
+
+}
+.inner-service img{
+   margin-bottom: 50px;
+}
+.inner-service h4{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.inner-service h5{
+    margin-bottom: 80px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #505457;
+}
+.inner-service .line img{
+        
+        
+        padding-bottom: 50px;
+
+}
+
+
+                /*think-area*/
+.think-area{
+    background-image: url(images/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+}
+.inner-think{
+    margin: 80px 0px;
+}
+.think-area h1{
+    font-weight: 400;
+}
+.think-area p{
+    
+}
+.think-area .btn{
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.think-area .btn:hover {
+    color: #4856f3;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.think-area .btn-active{
+    color: #000;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.think-area h1{
+    color: #fff;
+}
+.think-area p{
+    color: #fff;
+    opacity: 0.8;
+}
+
+
+            /*clients*/
+
+.clients img{
+    margin:10px 10px;
+}
+
+.clients {
+    margin: 100px 0px;
+}
+
+.review {
+    margin: 180px 0px;
+}
+.review h5 {
+    font-size: 15px;
+    color: #9f9f9f;
+    text-transform: uppercase;
+}
+
+.review h1{
+    font-size: 42px;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+.review p{
+    font-size: 14px;
+    color: #000;
+    opacity: 0.8;
+    font-weight: 600;
+    line-height: 2;
+}
+
+        /*footer*/
+footer{
+    background-image: url(images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+        }
+.footer h1,h4,h5,ul,li,p{
+    color: #fff;
+}        
+.ft-inner{
+
+}
+.ft-inner ul{
+    list-style: none;
+}
+.ft-inner ul:first-child{
+    font-weight: 700;
+    margin-right: 10px;
+}
+.inner-u{
+    margin: 80px 0px;
+}
+.ft-inner ul{
+
+}
+.ft-inner ul li{
+
+line-height: 2;
+
+font-size: 15px;
+
+font-weight: 500;
+}
+.ft-inner ul li a{
+        text-decoration: none;
+        color: #fff;
+}
+
+.ft-inner ul li a:hover{
+            color: blue;
+}
+.ft-inner h5{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.ft-inner p{
+    font-size: 12px;
+    font-weight: 500;
+}
+.inner-u .lw{
+    margin-bottom: 26px;
+}
+
